@@ -22,7 +22,7 @@ essa é a minha primeira experiencia com programação.
 
 ## 🔎 Aprendendo
 <div style="display: flex; gap: 2rem;">
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />    
   
 ## 📩 Contatos:

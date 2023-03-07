@@ -1,4 +1,4 @@
-### Fala Devs 👩‍💻, me chamo Ruan!
+### Fala Devs 👩‍💻, me chamo Thiago Pequeno!
 Tenho 20 anos, moro em São Paulo e atualmente estou cursando Análise e Desvolvimento de Sistemas 2/4,
 essa é a minha primeira experiencia com programação.
 

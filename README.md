@@ -2,6 +2,11 @@
 Tenho 20 anos, moro em São Paulo e atualmente estou cursando Análise e Desvolvimento de Sistemas 2/4,
 essa é a minha primeira experiencia com programação.
 
+Meu email: thiagopeuqueno@gmail
+
+Meu LinkedIn: Thiago Pequeno de Castro
+https://www.linkedin.com/in/thiago-pequeno-de-castro-2632bb248
+
 <div style="display: inline_block">
   Gosto de academia, series e dormir, adoro poesia arte e gatinhos, você ja olhou a lua hoje ?
 

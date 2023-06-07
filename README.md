@@ -19,6 +19,7 @@ https://www.linkedin.com/in/thiago-pequeno-de-castro-2632bb248
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img width="50px" src="https://icon-library.com/images/nodejs-icon/nodejs-icon-17.jpg" />
 
 
 

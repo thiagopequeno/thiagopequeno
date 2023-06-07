@@ -19,7 +19,7 @@ https://www.linkedin.com/in/thiago-pequeno-de-castro-2632bb248
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="50px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://cdn-icons-png.flaticon.com/512/919/919825.png)" />
 
 
 

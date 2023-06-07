@@ -29,6 +29,7 @@ https://www.linkedin.com/in/thiago-pequeno-de-castro-2632bb248
 <div style="display: flex; gap: 2rem;">
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />    
+<img width="50px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png"/>    
   
 ## 📩 Contatos:
 <div>

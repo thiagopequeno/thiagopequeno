@@ -50,13 +50,6 @@ Sou apaixonado por resolver problemas complexos e criar soluções robustas e ef
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=thiagopequeno&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopequeno&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />

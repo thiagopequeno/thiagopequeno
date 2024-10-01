@@ -5,21 +5,21 @@
 Tenho **22 anos**, sou de **São Paulo** e atualmente possuo **2-3 anos de experiência** trabalhando com **backend**. Tenho habilidades sólidas em várias linguagens e tecnologias, incluindo **Apex**, **Salesforce**, **Java**, **Kotlin**, **JavaScript**, **AWS**, **Azure**, e **C#**. Sempre estou à procura de novas oportunidades para aprender e crescer como desenvolvedor.
 
 Sou apaixonado por resolver problemas complexos e criar soluções robustas e eficientes. Fique à vontade para explorar meus projetos e ver como eu gosto de me desafiar!
-js
+```js
 import Desenvolvedor from "Thiago Pequeno";
 
 class SobreMim extends Desenvolvedor {
   nome = "Thiago Pequeno";
   area = "Back-end";
   anos = 22;
-  trabalho = "Onde trabalha";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Java,Kotlin,C#,Javascript,Python,Apex"];
-  bibliotecas = ["React,Express"];
-  frameworks = ["EntityFramework,Spring boot,Jpa,Asp Net Core,Vue,NestJs"];
+  linguagens = ["Apex,Java,Javascript,C#,Kotlin,Python,SqlServe,Mysql,Soql,Salesforce"];
+  bibliotecas = ["Express,React"];
+  frameworks = ["Vue,NestJs,Springboot,Jpa,Asp net Core, EntityFrameWork"];
 }
+```
 
 
 ## 🚀 Tecnologias e Ferramentas:

@@ -1,21 +1,10 @@
 # 👨‍💻 Thiago Pequeno - Desenvolvedor Backend <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<pre style="background-color: #282c34; color: #abb2bf; padding: 15px; border-radius: 5px; font-family: 'Courier New', Courier, monospace; font-size: 16px;">
-  <span style="color: #61afef;">import</span> <span style="color: #e06c75;">Desenvolvedor</span> <span style="color: #61afef;">from</span> <span style="color: #d19a66;">"thiagopequeno"</span><span style="color: #abb2bf;">;</span>
+### Olá, Devs! Seja bem-vindo ao meu perfil do GitHub!
 
-  <span style="color: #e06c75;">class</span> <span style="color: #c678dd;">SobreMim</span> <span style="color: #e06c75;">extends</span> <span style="color: #c678dd;">Desenvolvedor</span> <span style="color: #abb2bf;">{</span>
+Tenho **22 anos**, sou de **São Paulo** e atualmente possuo **2-3 anos de experiência** trabalhando com **backend**. Tenho habilidades sólidas em várias linguagens e tecnologias, incluindo **Apex**, **Salesforce**, **Java**, **Kotlin**, **JavaScript**, **AWS**, **Azure**, e **C#**. Sempre estou à procura de novas oportunidades para aprender e crescer como desenvolvedor.
 
-    <span style="color: #d19a66;">nome</span> <span style="color: #61afef;">=</span> <span style="color: #d19a66;">"Thiago Pequeno"</span><span style="color: #abb2bf;">;</span><br>
-    <span style="color: #d19a66;">idade</span> <span style="color: #61afef;">=</span> <span style="color: #d19a66;">22</span><span style="color: #abb2bf;">;</span><br>
-    <span style="color: #d19a66;">localizacao</span> <span style="color: #61afef;">=</span> <span style="color: #d19a66;">"São Paulo"</span><span style="color: #abb2bf;">;</span><br>
-    <span style="color: #d19a66;">experiencia</span> <span style="color: #61afef;">=</span> <span style="color: #d19a66;">"2-3 anos de experiência em backend"</span><span style="color: #abb2bf;">;</span><br>
-    <span style="color: #d19a66;">habilidades</span> <span style="color: #61afef;">=</span> <span style="color: #d19a66;">["Apex", "Salesforce", "Java", "Kotlin", "JavaScript", "AWS", "Azure", "C#"]</span><span style="color: #abb2bf;">;</span><br>
-    <span style="color: #d19a66;">passao</span> <span style="color: #61afef;">=</span> <span style="color: #d19a66;">"Resolver problemas complexos e criar soluções robustas e eficientes"</span><span style="color: #abb2bf;">;</span>
-    
-  <span style="color: #abb2bf;">}</span>
-</pre>
-
-
+Sou apaixonado por resolver problemas complexos e criar soluções robustas e eficientes. Fique à vontade para explorar meus projetos e ver como eu gosto de me desafiar!
 
 ## 🚀 Tecnologias e Ferramentas:
 <div style="display: flex; gap: 2rem;">

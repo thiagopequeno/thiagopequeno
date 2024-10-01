@@ -16,7 +16,7 @@ Sou apaixonado por resolver problemas complexos e criar soluções robustas e ef
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
+  <img width="50px" src="https://hermes.dio.me/articles/cover/3d6d2565-3411-47c2-9dd4-570eeb48ba9e.png" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 

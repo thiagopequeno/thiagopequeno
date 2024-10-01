@@ -1,4 +1,4 @@
-# 👨‍💻 Thiago Pequeno - Desenvolvedor Backend 
+# 👨‍💻 Thiago Pequeno - Desenvolvedor Backend <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ### Olá, Devs! Seja bem-vindo ao meu perfil do GitHub!
 
@@ -34,16 +34,16 @@ Sou apaixonado por resolver problemas complexos e criar soluções robustas e ef
 ## 📊 Minhas Estatísticas:
 <div align="center">
   <a href="https://github.com/thiagopequeno">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopequeno&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagopequeno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopequeno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopequeno&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ---
 
-## 🐍 Joguinho da Cobrinha:
-
+## 🌟 Animação Legal Flutuante:
 <p align="center">
-  <img src="https://github.com/thiagopequeno/thiagopequeno/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="flutuando" width="600"/>
 </p>
 
 ---

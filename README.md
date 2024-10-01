@@ -30,12 +30,7 @@ Sou apaixonado por resolver problemas complexos e criar soluções robustas e ef
 ---
 
 ## 📊 Minhas Estatísticas:
-<div align="center">
-  <a href="https://github.com/thiagopequeno">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopequeno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopequeno&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=thiagopequeno&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 

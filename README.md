@@ -1,12 +1,20 @@
 # 👨‍💻 Thiago Pequeno - Desenvolvedor Backend <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### Olá, Devs! Seja bem-vindo ao meu perfil do GitHub!
+<pre>
+<span class="pl-k">import</span> <span class="pl-v">Desenvolvedor</span> <span class="pl-k">from</span> <span class="pl-s">"RicardoVicentePc"</span><span class="pl-kos">;</span>
 
-Tenho **22 anos**, sou de **São Paulo** e atualmente possuo **2-3 anos de experiência** trabalhando com **backend**. Tenho habilidades sólidas em várias linguagens e tecnologias, incluindo **Apex**, **Salesforce**, **Java**, **Kotlin**, **JavaScript**, **AWS**, **Azure**, e **C#**. Sempre estou à procura de novas oportunidades para aprender e crescer como desenvolvedor.
+<span class="pl-k">class</span> <span class="pl-v">SobreMim</span> <span class="pl-k">extends</span> <span class="pl-v">Desenvolvedor</span> <span class="pl-kos">{</span>
 
-Sou apaixonado por resolver problemas complexos e criar soluções robustas e eficientes. Fique à vontade para explorar meus projetos e ver como eu gosto de me desafiar!
+  <span class="pl-c1">nome</span> <span class="pl-c1">=</span> <span class="pl-s">"Ricardo Vicente"</span><span class="pl-kos">;</span>
+  <span class="pl-c1">idade</span> <span class="pl-c1">=</span> <span class="pl-s">22</span><span class="pl-kos">;</span>
+  <span class="pl-c1">localizacao</span> <span class="pl-c1">=</span> <span class="pl-s">"São Paulo"</span><span class="pl-kos">;</span>
+  <span class="pl-c1">experiencia</span> <span class="pl-c1">=</span> <span class="pl-s">"2-3 anos de experiência em backend"</span><span class="pl-kos">;</span>
+  <span class="pl-c1">habilidades</span> <span class="pl-c1">=</span> <span class="pl-s">["Apex", "Salesforce", "Java", "Kotlin", "JavaScript", "AWS", "Azure", "C#"]</span><span class="pl-kos">;</span>
+  <span class="pl-c1">passao</span> <span class="pl-c1">=</span> <span class="pl-s">"Resolver problemas complexos e criar soluções robustas e eficientes"</span><span class="pl-kos">;</span>
+  
+<span class="pl-kos">}</span>
+</pre>
 
----
 
 ## 🚀 Tecnologias e Ferramentas:
 <div style="display: flex; gap: 2rem;">

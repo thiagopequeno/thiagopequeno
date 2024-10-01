@@ -1,6 +1,6 @@
 # 👨‍💻 Thiago Pequeno - Desenvolvedor Backend <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p align="left"> 
-  Olá sou Thiago formado em ADS atuo como dev tem 2 focado em <strong>Back-end</strong> mas tambem tenho algumas skils para front end.<br>
+  Olá, sou Thiago!Formado em Análise e Desenvolvimento de Sistemas, atuo como desenvolvedor há 2 anos, com foco em Back-end. Também possuo habilidades em Front-end, permitindo-me contribuir em projetos de forma integral. Estou sempre em busca de aprender e crescer na área de tecnologia!.<br>
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 

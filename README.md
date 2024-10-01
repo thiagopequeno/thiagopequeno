@@ -1,10 +1,17 @@
 # 👨‍💻 Thiago Pequeno - Desenvolvedor Backend <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### Olá, Devs! Seja bem-vindo ao meu perfil do GitHub!
-
-Tenho **22 anos**, sou de **São Paulo** e atualmente possuo **2-3 anos de experiência** trabalhando com **backend**. Tenho habilidades sólidas em várias linguagens e tecnologias, incluindo **Apex**, **Salesforce**, **Java**, **Kotlin**, **JavaScript**, **AWS**, **Azure**, e **C#**. Sempre estou à procura de novas oportunidades para aprender e crescer como desenvolvedor.
-
-Sou apaixonado por resolver problemas complexos e criar soluções robustas e eficientes. Fique à vontade para explorar meus projetos e ver como eu gosto de me desafiar!
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
 ```js
 import Desenvolvedor from "Thiago Pequeno";
 

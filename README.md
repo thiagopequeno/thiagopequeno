@@ -1,21 +1,11 @@
 # 👨‍💻 Thiago Pequeno - Desenvolvedor Backend <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<div style="display: flex; align-items: flex-start; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #f6f8fa;">
+### Olá, Devs! Seja bem-vindo ao meu perfil do GitHub!
 
-  <div style="flex: 1; margin-right: 20px;">
-    <h3>Olá, Devs! Seja bem-vindo ao meu perfil do GitHub!</h3>
-    <p>
-      Tenho <strong>22 anos</strong>, sou de <strong>São Paulo</strong> e atualmente possuo <strong>2-3 anos de experiência</strong> trabalhando com <strong>backend</strong>. Tenho habilidades sólidas em várias linguagens e tecnologias, incluindo <strong>Apex</strong>, <strong>Salesforce</strong>, <strong>Java</strong>, <strong>Kotlin</strong>, <strong>JavaScript</strong>, <strong>AWS</strong>, <strong>Azure</strong>, e <strong>C#</strong>. Sempre estou à procura de novas oportunidades para aprender e crescer como desenvolvedor.
-    </p>
-    <p>
-      Sou apaixonado por resolver problemas complexos e criar soluções robustas e eficientes. Fique à vontade para explorar meus projetos e ver como eu gosto de me desafiar!
-    </p>
-  </div>
+Tenho **22 anos**, sou de **São Paulo** e atualmente possuo **2-3 anos de experiência** trabalhando com **backend**. Tenho habilidades sólidas em várias linguagens e tecnologias, incluindo **Apex**, **Salesforce**, **Java**, **Kotlin**, **JavaScript**, **AWS**, **Azure**, e **C#**. Sempre estou à procura de novas oportunidades para aprender e crescer como desenvolvedor.
 
-  <div style="flex: 1;">
-    <h3>Código de Apresentação</h3>
-    <pre style="background-color: #282c34; color: #ffffff; padding: 10px; border-radius: 5px; overflow-x: auto;">
-      <code>
+Sou apaixonado por resolver problemas complexos e criar soluções robustas e eficientes. Fique à vontade para explorar meus projetos e ver como eu gosto de me desafiar!
+js
 import Desenvolvedor from "Thiago Pequeno";
 
 class SobreMim extends Desenvolvedor {
@@ -30,13 +20,6 @@ class Skills extends Desenvolvedor {
   bibliotecas = ["React,Express"];
   frameworks = ["EntityFramework,Spring boot,Jpa,Asp Net Core,Vue,NestJs"];
 }
-      </code>
-    </pre>
-  </div>
-
-</div>
-
----
 
 
 ## 🚀 Tecnologias e Ferramentas:

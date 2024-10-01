@@ -37,6 +37,7 @@ Sou apaixonado por resolver problemas complexos e criar soluções robustas e ef
 ---
 ---
 ---
+---
 
 ## 🌟 Animação Legal Flutuante:
 <p align="center">
